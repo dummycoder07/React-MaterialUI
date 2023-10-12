@@ -20,3 +20,16 @@
   10. body2
 - The Typography component uses the variantMapping prop to associate a UI variant with a semantic element.
   
+# Button
+- MUI Button are basically native button or anchor elements enhanced with material design
+- There are three types of Button
+  1. text variant ( less attention )
+  2. contained variant  ( more attention )
+  3. outlined variant  ( medium attention )
+- Stack is a container component for arranging elements vertically or horizontally
+   It manage the layout of its immediate children along the vertical or horizontal axis, with optional spacing and dividers between each child
+- Anchor Tags - when we add href to any button, then it works as the link and Button tags change to anchor tags
+- Color - We can add the color using color attribute. These are : primary , secondary , error , warning , info , success.
+- Size - We can set the size of element. There are three size: small, medium, large.
+- Icon - It include the 2100+ official material icon converted to SvgIcons components.
+
